@@ -258,8 +258,8 @@ if ($login == false)
                         {
                         echo color("green", $claim2 . "\n");
                         }
-      }
-    }  
+      
+    
   }
 
   }?>
